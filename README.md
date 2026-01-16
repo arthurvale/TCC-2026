@@ -35,4 +35,4 @@ Os dados originais utilizados neste projeto estão disponíveis publicamente no 
 Este projeto foi desenvolvido e executado originalmente no **Google Colab**.  
 Caso seja necessário rodá-lo localmente, pode ser preciso ajustar os caminhos de leitura dos arquivos (substituindo referências ao Google Drive por caminhos do seu computador).
 
-As bibliotecas utilizadas no ambiente do Colab estão listadas no arquivo: **[requirements_local.txt]([requirements_colab.txt](https://github.com/arthurvale/TCC-2026/blob/main/requirements_local.txt))**.
+As bibliotecas utilizadas no ambiente do Colab estão listadas no arquivo: **[requirements_colab.txt](https://github.com/arthurvale/TCC-2026/blob/main/requirements_local.txt)**.
